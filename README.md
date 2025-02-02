@@ -1,21 +1,30 @@
 # Why Not Change The 'Hello World'!? 👋
 
-저는 가장 먼저 행동하는 **백엔드 주니어 개발자**가 되고 싶은 **강준혁**입니다. 실행과 결과를 통해 가치 있는 변화를 만들어내는 것을 목표로 하고 있습니다.
+저는 실행과 결과를 중시하는 **백엔드 개발자 강준혁**입니다.  
+**Spring Boot**, **Spring Security**, **MariaDB**를 기반으로 안정적인 시스템을 설계하고, **데이터 구조와 알고리즘을 활용한 문제 해결**을 즐깁니다.  
 
-### 🌍 About Me
-- ⚡ **실행력**과 **결과 중심**의 사고방식을 통해 문제를 빠르게 분석하고 해결하는 데 주력합니다.
-- 📚 **Spring Boot**, **Spring Data JPA**를 활용하여 안정적이고 확장 가능한 시스템을 설계하며 실무에 적극적으로 적용하고 있습니다.
-- ✨ **자료구조**와 **알고리즘**을 학습하며, 이를 통해 문제를 분석하고 코드로 해결하는 데 관심이 많습니다.
-- 💡 사용자가 신뢰할 수 있는 웹 애플리케이션을 개발하는 데 열정을 가지고 있으며, 실질적인 가치를 제공하는 프로젝트를 만드는 것을 즐깁니다.
-- 🚀 목표는 클린하고 유지보수 가능한 코드를 작성하며, 팀과 조직에 결과로 대답하는 **백엔드 개발자**가 되는 것입니다.
+#### 🌟 Projects
 
-### 🌟 Projects
-- **2024.12**: 선한영향력가게 백엔드 API (Spring Boot, JPA, MySQL, ...)
-- **2024.03**: ClassHub 풀스택 (Spring Boot, JPA, MySQL, ...)
-- **2023.08**: HAPPYMAN 프론트 엔드 (React, Axios, ...)
-- **2022.12**: OverWatch (SwiftUI, Core Data)
+- **[선한영향력가게 미니 인턴십 (2024.10 ~ 2024.12)]**  
+  🛠 **Backend** (Spring Boot, JPA, MariaDB)  
+  ✨ 전국 가맹점의 데이터를 관리하는 **백오피스 API 개발**  
 
-### 🚀 Skills & Tools
+- **[ClassHub (2024.01 ~ 2024.08)]**  
+  🛠 **Full Stack** (Spring Boot, JPA, MariaDB)  
+  ✨ 학생과 교수 피드백 및 성적 관리 시스템 개발  
+  ✨ **JWT 기반 인증 및 역할(학생/교수) 관리 기능** 구현
+    
+- **[HAPPYMAN (2023.08 ~ 2024.01)]**  
+  🛠 **Frontend** (React, Axios, OAuth)  
+  ✨ **교육 프로그램 수료증 발급 및 검증 시스템** 개발  
+  ✨ OAuth 로그인 및 PDF 파일 자동 생성 기능 구현  
+
+- **[OverWatch (2022.12 ~ 2023.03)]**  
+  🛠 **Full Stack** (SwiftUI, Core Data)  
+  ✨ **사용자의 일정 및 업무 시간을 분석하는 시간 관리 앱 개발**  
+  ✨ Core Data를 활용한 **오프라인 데이터 저장 기능** 구현  
+
+#### 🚀 Skills & Tools
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
@@ -34,17 +43,20 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-### 📊 GitHub Analytics
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=00KANGJK&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00KANGJK&layout=compact&theme=radical" alt="Top Languages">
-    </td>
-  </tr>
-</table>
+#### 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=00KANGJK&theme=radical" alt="GitHub Streak Stats">
+</p>
+
+
+#### 🎓 Additional Qualifications
+- 🏫 2024.08 ~ 2024.12 [생활 속의 AI] Teaching Assistant at HGU (Orange3)
+- 🏫 2024.03 - 2024.06 [파이썬 프로그래밍] Teaching Assistant at HGU (Python)
+- 🙏 2024.01 ~ 2024.02 [Data Science Camp in Cambodia] Teaching Assistant at Unesco Unitwin (Orange3, R)
+- 🙏 2023.12 - 2024.01 [창의 코딩 캠프] Education Volunteer at VIC School (MIT App Inventor)
+- 🏫 2023.08 - 2023.12 [실전 프로젝트1] Teaching Assistant at HGU (Java, HTML, CSS, JS, Spring, Spring Boot, MariaDB)
+- 🏫 2023.03 - 2023.06 [C 프로그래밍] Teaching Assistant at HGU (C)
+- 🏫 2022.08 - 2022.12 [C 프로그래밍 실습] Teaching Assistant at HGU (C)
 
 
 
