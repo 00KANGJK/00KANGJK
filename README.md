@@ -43,20 +43,28 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-#### 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=00KANGJK&theme=radical" alt="GitHub Streak Stats">
-</p>
+#### 📊 GitHub Analytics 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=00KANGJK&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00KANGJK&layout=compact&theme=radical" alt="Top Languages">
+    </td>
+  </tr>
+</table>
+
 
 
 #### 🎓 Additional Qualifications
 - 🏫 2024.08 ~ 2024.12 [생활 속의 AI] Teaching Assistant at HGU (Orange3)
-- 🏫 2024.03 - 2024.06 [파이썬 프로그래밍] Teaching Assistant at HGU (Python)
+- 🏫 2024.03 ~ 2024.06 [파이썬 프로그래밍] Teaching Assistant at HGU (Python)
 - 🙏 2024.01 ~ 2024.02 [Data Science Camp in Cambodia] Teaching Assistant at Unesco Unitwin (Orange3, R)
-- 🙏 2023.12 - 2024.01 [창의 코딩 캠프] Education Volunteer at VIC School (MIT App Inventor)
-- 🏫 2023.08 - 2023.12 [실전 프로젝트1] Teaching Assistant at HGU (Java, HTML, CSS, JS, Spring, Spring Boot, MariaDB)
-- 🏫 2023.03 - 2023.06 [C 프로그래밍] Teaching Assistant at HGU (C)
-- 🏫 2022.08 - 2022.12 [C 프로그래밍 실습] Teaching Assistant at HGU (C)
+- 🙏 2023.12 ~ 2024.01 [창의 코딩 캠프] Education Volunteer at VIC School (MIT App Inventor)
+- 🏫 2023.08 ~ 2023.12 [실전 프로젝트1] Teaching Assistant at HGU (Java, HTML, CSS, JS, Spring, Spring Boot, MariaDB)
+- 🏫 2023.03 ~ 2023.06 [C 프로그래밍] Teaching Assistant at HGU (C)
+- 🏫 2022.08 ~ 2022.12 [C 프로그래밍 실습] Teaching Assistant at HGU (C)
 
 
 
