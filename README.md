@@ -60,6 +60,7 @@
 #### 🎓 Additional Qualifications
 - 🏫 2025.01 ~ 2024.01 [프로그래밍 입문] Teaching Assistant at HGU (Python)
 - 🏫 2024.08 ~ 2024.12 [생활 속의 AI] Teaching Assistant at HGU (Orange3)
+- 🏫 2024.06 ~ 2024.07 [앱 프로그래밍 입문] Teaching Assistant at HGU (HTML,CSS ,JS)
 - 🏫 2024.03 ~ 2024.06 [파이썬 프로그래밍] Teaching Assistant at HGU (Python)
 - 🙏 2024.01 ~ 2024.02 [Data Science Camp in Cambodia] Teaching Assistant at Unesco Unitwin (Orange3, R)
 - 🙏 2023.12 ~ 2024.01 [창의 코딩 캠프] Education Volunteer at VIC School (MIT App Inventor)
