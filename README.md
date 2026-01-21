@@ -19,11 +19,6 @@
   ✨ **교육 프로그램 수료증 발급 및 검증 시스템** 개발  
   ✨ OAuth 로그인 및 PDF 파일 자동 생성 기능 구현  
 
-- **[OverWatch (2022.12 ~ 2023.03)]**  
-  🛠 **Full Stack** (SwiftUI, Core Data)  
-  ✨ **사용자의 일정 및 업무 시간을 분석하는 시간 관리 앱 개발**  
-  ✨ Core Data를 활용한 **오프라인 데이터 저장 기능** 구현  
-
 #### 🚀 Skills & Tools
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -42,20 +37,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
-
-#### 📊 GitHub Analytics 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=00KANGJK&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00KANGJK&layout=compact&theme=radical" alt="Top Languages">
-    </td>
-  </tr>
-</table>
-
-
 
 #### 🎓 Additional Qualifications
 - 🏫 2025.01 ~ 2024.01 [프로그래밍 입문] Teaching Assistant at HGU (Python)
