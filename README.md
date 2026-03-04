@@ -19,7 +19,7 @@
 
 ## 🚀 Projects
 
-### 1. 해빗 (Habit Tracking Platform) — `Founder` 🚀 2025.03 출시 예정
+### 1. 해빗 (Habit Tracking Platform) — 🚀 2025.03 출시 예정
 
 🛠 **Tech Stack:** Spring Boot, Flutter, React, MariaDB  
 ✨ **Role:** 6인 팀 Founder · 기획 + 백엔드 개발 + QA 프로세스 설계  
