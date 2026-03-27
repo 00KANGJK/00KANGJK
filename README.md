@@ -108,9 +108,9 @@
 | 🌐 **웹 서비스** | 8개 프로젝트 품질 검증 |
 | 📱 **모바일 앱** | 1개 프로젝트 (웹 연동 포함) |
 | 🤖 **AI 시스템** | 4개 프로젝트 품질 검증 |
-| 🗄️ **DB / 펌웨어** | 2개 프로젝트 품질 검증 |
+| 🗄️ **DB / 펌웨어** | 3개 프로젝트 품질 검증 |
 | 🖥️ **온프레미스 서버** | 1개 프로젝트 운영 서비스 검증 |
-| 📋 **총 검증 규모** | **15개+ 프로젝트 · ISO 25000 기반** |
+| 📋 **총 검증 규모** | **17개+ 프로젝트 · ISO 25023,25051 기반** |
 
 ### 🏅 Certifications & Training
 
@@ -141,4 +141,3 @@
 
 - 📧 Email: [kth00021000@gmail.com](mailto:kth00021000@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/kjh0210](https://www.linkedin.com/in/kjh0210/)
-- 📝 Blog: [velog.io/@00kang_jh](https://velog.io/@00kang_jh/)
