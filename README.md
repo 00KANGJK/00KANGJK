@@ -17,17 +17,18 @@
 ## 🚀 Projects
 
 ### 1. 해빗 (H-Habit) — 실서비스 운영 중 (2025.08 ~ )
-> 습관 인증 앱 · iOS · Android 정식 배포 · 사용자 약 200명 운영 중
+> 습관 인증 앱 · iOS · Android 정식 배포 · **실사용자 154명** 운영 중 (2026.07 기준)
 
 [![Google Play](https://img.shields.io/badge/Google_Play-다운로드-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.h_habit.app)
 [![App Store](https://img.shields.io/badge/App_Store-다운로드-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/h-habit/id6761158866)
 
 **Stack** Spring Boot · PostgreSQL(Supabase) · Cloudflare R2 · Firebase · AWS Lightsail · GitHub Actions
-**Team** 4인 (대표 / PM / **백엔드 · 인프라 단독 담당**)
+**Team** 4인 팀 · 본인은 **백엔드 · 인프라 단독 + PM**
 
 - Spring Boot 기반 API 서버 **단독 설계 · 구현**, AWS Lightsail · Docker · Nginx 인프라 직접 운영
 - GitHub Actions로 빌드 · 테스트 · 배포 파이프라인 자동화
 - 관리자 · 사용자 권한별 로그인 시나리오 기능 테스트 통합
+- **4주 리텐션 66%** · 누적 인증 7,063건 · 총 습관 수행 806시간
 - **배포 이후 심각도 높은 결함 0건 유지**
 
 ### 2. Altibase JDBC 검증 자동화 — TTA (2025 ~ )
@@ -126,7 +127,7 @@
 | 🌐 **웹 / 모바일 앱** | 다수 도메인 (이커머스, B2B SaaS, 교육 등) |
 | 🤖 **AI 기반 앱** | 엣지 케이스 TC 설계로 무한 로딩 결함 사전 차단 |
 | 🗄️ **DB · 펌웨어** | 데이터 정합성 · 시스템 통신 검증 |
-| 📋 **누적 검증 규모** | **15개 제품 / ISO 25023 · 25051 기반** |
+| 📋 **누적 검증 규모** | **16개 제품 GS인증 완료 · 17번째 진행 중 / ISO 25023 · 25051 기반** |
 | 🧪 **TC 작성 평균** | **프로젝트당 150건 이상** |
 | 🛡️ **보안 결함 발견** | **크리티컬 2건 → 약 10만 건 개인정보 보호** |
 | ⚡ **업무 자동화** | **Python · AI 활용 / 1일 → 1시간 (약 95% 효율)** |
@@ -135,8 +136,9 @@
 
 ## 🏅 Certifications & Training
 
-- 🏆 **CSTS Foundation Level** (2025.07) — 한국정보통신기술협회
-- 📅 **ISTQB CTFL** — 2026.06 응시 예정 (한국어)
+- 🏆 **ISTQB CTFL** — 취득 (2026.06, 한국어)
+- 🏆 **CSTS Foundation Level** — 취득 (2025.07, 한국정보통신기술협회)
+- 🗣️ **OPIc IM1** (영어)
 - 📚 Playwright 기반 웹 자동화 테스트 실무 기초 — TTA 아카데미 (2026.01)
 - 📚 프로젝트 관리와 SW 품질관리 — TTA 아카데미 (2025.10)
 
@@ -151,11 +153,10 @@
 
 ## 📈 Currently
 
-- 🔭 TTA에서 **GS인증 시험원**으로 다양한 도메인 제품 품질 검증 수행 중
-- 🌱 **해빗(H-Habit)** 앱 운영 (Spring Boot 백엔드 + 인프라 담당)
+- 🔭 TTA에서 **GS인증 시험원**으로 품질 검증 수행 중 — **현재 17번째 제품 GS인증 시험 진행**
+- 🌱 **해빗(H-Habit)** 앱 운영 (Spring Boot 백엔드 + 인프라 담당) · 실사용자 154명
 - 💼 **다미화학 홈페이지** 외주 운영 · 유지보수 중
 - 🎯 **직접 만들고 · 운영하고 · 자동화하는** 실행형 포지션으로 성장 중
-- 📖 **ISTQB CTFL** 6월 응시 준비 중
 
 ---
 
